@@ -15,8 +15,8 @@
   <p><img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/postgresql.svg" width="70" height="20" /></p>
 <h2> Tools </h2>
   <p>
-    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/Docker.svg" width="70" height="20" />
-    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/git.svg" width="70" height="20" />
-    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/github.svg" width="70" height="20" />
-    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/Linux.svg" width="70" height="20" />
+    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/Docker.svg" width="70" height="25" />
+    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/git.svg" width="70" height="25" />
+    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/github.svg" width="70" height="25" />
+    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/Linux.svg" width="70" height="25" />
   </p>
