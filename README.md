@@ -3,16 +3,16 @@
 <h1>Technology stack</h1>
 <b font-size="18px"> Back-end </b>
   <p>
-    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/python.svg" width="70" height="20" />
-    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/django.svg" width="70" height="20" />
+    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/python.svg" width="70" height="25" />
+    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/django.svg" width="70" height="25" />
   </p>
 <b> Front-end </b>
   <p>
-    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/HTML.svg" width="70" height="20" />
-    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/CSS.svg" width="70" height="20" />
+    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/HTML.svg" width="70" height="25" />
+    <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/CSS.svg" width="70" height="25" />
   </p>
 <b> Database <b>
-  <p><img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/postgresql.svg" width="70" height="20" /></p>
+  <p><img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/postgresql.svg" width="70" height="25" /></p>
 <h2> Tools </h2>
   <p>
     <img src="https://github.com/PavelGrebenshikov/PavelGrebenshikov/raw/main/icons/Docker.svg" width="70" height="25" />
